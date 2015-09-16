@@ -694,9 +694,3 @@
   margin: 0.3em 0 0.25em -1.6em;
   vertical-align: middle;
 }
-
-@media (min-width: 43.75em) {
-  body {
-    padding: 30px;
-  }
-}
